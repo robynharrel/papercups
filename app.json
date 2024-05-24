@@ -55,9 +55,6 @@
   "buildpacks": [
     {
       "url": "https://buildpack-registry.s3.amazonaws.com/buildpacks/hashnuke/elixir.tgz"
-    },
-    {
-      "url": "https://github.com/dunzel/heroku-buildpack-phoenix-static"
     }
   ]
 }
